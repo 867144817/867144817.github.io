@@ -1,0 +1,732 @@
+/*公共*/
+i{
+    display: inline-block;
+}
+s{
+    background-image: url(../img/tu.png);
+    width: 25px;
+    height: 25px;
+    vertical-align: middle;
+    display: inline-block;
+}
+.width{
+    width: 1366px;
+    margin: 0 auto;
+}
+.middle{
+    width: 1172px;
+    margin:30px auto;
+}
+.line{
+    width: 85px;
+    height: 1px;
+    border-bottom: 1px solid #000;
+    margin-bottom: 15px;
+}
+.chatu{
+    width: 400px;
+    margin:0 auto;
+    text-align: center;
+}
+.title{
+    font-size: 26px;
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 25px 0;
+}
+img{
+    float: left;
+}
+dt{
+    display: inline-block;
+    padding-top: 15px;
+    color: #888b90;
+    line-height: 30px;
+}
+/*公共*/
+
+/*内容1*/
+.content-1{
+    padding-top: 25px;
+}
+.tu{
+    width: 82px;
+    height: 30px;
+   overflow: hidden;
+}
+.ren{
+    background-position: -63px 0;
+}
+.word{
+    width: 1172px;
+    color: #989a9f;
+    font-size: 14px;
+    line-height: 30px;
+}
+.circle{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: #52edc7;
+    margin-left: 30px;
+    float:left ;
+    text-align: center;
+    line-height: 70px;
+}
+.circlefather{
+    width: 570px;
+    margin: 42px auto;
+}
+.background .zero{
+    margin: 0;
+}
+.f{
+    background-position:8px -79px;
+}
+.bird{
+    background-position:-44px -77px;
+}
+.in{
+    background-position: -71px -78px;
+}
+.ball{
+    background-position: -99px -78px;
+}
+.circle .g{
+    background-position: -159px -78px;
+    height: 25px;
+}
+.x{
+    background-position: -15px -78px;
+}
+.triangle1{
+    height: 0px;
+    width: 0px;
+    border-top: 64px solid white;
+    border-right: 1366px solid #1abc9c;
+}
+/*内容1*/
+
+/*内容2*/
+.content-2{
+    background-color:#1abc9c;
+}
+.gear{
+    background-position: -132px -79px;
+}
+.w{
+    border-color: white;
+}
+.percentage{
+    width: 170px;
+    float: left;
+    background-image: url(../img/percentage.png);
+    line-height: 170px;
+    text-align: center;
+    vertical-align: middle;
+    background-repeat: no-repeat;
+}
+.percentage p{
+    width: 142px;
+    height: 142px;
+    font-size: 27px;
+    color: white;
+    border-radius: 50%;
+    background-color: #1abc9c;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 142px;
+}
+.y1{
+    background-position: -13px -15px
+}
+.y2{
+    background-position: -206px -15px;
+}
+.y3{
+    background-position: -400px -15px;
+}
+.y4{
+    background-position: -594px -15px;
+}
+.y5{
+    background-position: -788px -15px;
+    }
+.y6{
+    background-position: -982px -15px;
+}
+.pfather{
+    margin-top: 70px;
+}
+.percentage b{
+    line-height: 40px;
+    display: block;
+}
+.triangle2{
+    height: 0px;
+    width: 0px;
+    border-bottom: 64px solid #eeeeee;
+    border-right: 1366px solid #1abc9c;
+    margin-top: 46px;
+}
+/*内容2*/
+
+/*内容3*/
+.white,b{
+    color: white;
+}
+.book{
+    background-position:-31px 0;
+}
+.ccc{
+    width: 163px;
+    height: 74px;
+    background-color: #4ad7b4;
+    margin-left: 237px;
+    line-height: 36px;
+}
+.ccc p{
+    height: 37px;
+    background-color: #52edc7;
+    width: 100%;
+}
+.middle.float.zero{
+    margin: 0;
+}
+.juzhong{
+    width: 963px;
+    margin: 0 auto;
+    font-size: 13px;
+    text-align: center;
+    font-weight: 600;
+}
+.middle.float p{
+    line-height: 36px;
+}
+.shuoming{
+    width: 366px;;
+    height: 251px;
+    background-color: white;
+    text-align: center;
+    line-height: 30px;
+}
+.shuoming p{
+    height: 116px;
+    background: #52edc7;
+    padding-top: 20px;
+}
+.content-3{
+    background-color: #eeeeee;
+}
+.xiaosj{
+    width: 0px;
+    height: 0px;
+    border-bottom: 21px solid #52edc7;
+    border-right: 21px solid rgba(0, 0, 0, 0);
+    border-left: 21px solid rgba(0, 0, 0, 0);
+    margin-left: 164px;
+    margin-top: 26px;
+}
+.long-line{
+    width: 183px;
+    margin:0 auto;
+    border-bottom:3px solid #dcdcdf ;
+    margin-top: 60px;
+}
+.work-box{
+    background-position: -226px 0;
+}
+.boredr{
+    border-left:2px solid #e2e2e2;
+    border-right:2px solid #e2e2e2;
+}
+.sanjiao{
+    margin-left: 194px;
+}
+.shuoming2{
+    width: 368px;
+    height: 360px;
+    text-align: center;
+    background-color: white;
+    float: left;
+}
+.shuoming2-son{
+    height: 37px;
+    background-color: #52edc7;
+    font-weight: 600;
+    line-height: 36px;
+}
+.shuoming2-son2{
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 34px;
+}
+.shuoming3 span{
+    color: #c1c1c1;
+}
+.triangle3{
+    height: 0px;
+    width: 0px;
+    border-top:64px solid rgba(255, 255, 255, 0);
+    border-right: 1366px solid white;
+    margin-top: 46px;
+}
+/*内容3*/
+
+/*内容4*/
+.wrench{
+    background-position: -128px 0;
+}
+.yuan{
+    width: 188px;
+    height: 188px;
+    border-radius: 50%;
+    background-color: #ff9560;
+    text-align: center;
+    line-height: 186px;
+    display: inline-block;
+    margin-left: 114px;
+}
+.yuan-son{
+    width: 168px;
+    height: 168px;
+    background-color: #f9671e;
+    border-radius: 50%;
+    vertical-align: middle;
+    display: inline-block;
+}
+.yuan i{
+    background-image: url(../img/tu.png);
+    background-position: 0 -112px;
+    width: 126px;
+    height: 120px;
+    vertical-align: middle;
+    margin-left: 51px;
+    margin-top: 29px;
+
+}
+.yuancolor1{
+    background-color: #59a8ff;
+}
+.yuancolor2{
+    background-color: #007aff;
+}
+.yuancolor1 i{
+    background-position: -119px -112px;
+    margin-left: 36px;
+    margin-top: 24px;
+}
+.yuancolor3{
+    background-color: #41fa8f;
+}
+.yuancolor4{
+    background-color: #2ecc71;
+}
+.yuancolor3 i{
+    background-position: -253px -112px;
+    margin-left: 31px;
+    margin-top: 22px;
+}
+.yuancolor5{
+    background-color: #c561ef;
+}
+.yuancolor6{
+    background-color: #8e44ad;
+}
+.yuancolor5 i{
+    background-position: -373px -116px;
+    margin-left: 36px;
+    margin-top: 19px;
+}
+.center{
+    text-align: center;
+}
+.text{
+    width: 245px;
+    font-size: 16px;
+    font-weight: 800;
+    float: left;
+    margin-left: 60px;
+}
+.text span{
+    font-size: 13px;
+    font-weight: 400;
+    color: #888b90;
+}
+/*内容4*/
+
+/*内容5*/
+.content-5{
+    background-image: url(../img/content5.jpg);
+    height: 1216px;
+}
+.camera{
+    background-position: -227px -80px;
+}
+.kuang{
+    width: 63px;
+    height: 37px;
+    border: 2px solid white;
+    border-radius: 3px;
+    display: inline-block;
+    margin-left: 14px;
+    margin-top: 40px;
+    line-height: 36px;
+    color: white;
+}
+.one{
+    width: 104px;
+}
+.two{
+    width: 117px;
+}
+.three{
+    width: 130px;
+}
+.four{
+    width: 81px;
+}
+.tu-1{
+    height: 600px;
+    width: 902px;
+    display: inline-block;
+}
+.up{
+    overflow: hidden;
+    width: 902px;
+    margin: 74px auto;
+    position: relative;
+}
+.triangle4{
+    height: 0px;
+    width: 0px;
+    border-top:70px solid rgba(255, 255, 255, 0);
+    border-right: 1366px solid #52edc7;
+    margin-top: -43px;
+}
+/*内容5*/
+
+/*内容6*/
+.content-6{
+    background-color: #52edc7;
+}
+.chui{
+    background-position:-194px -79px;
+}
+.yuan2{
+    width: 132px;
+    height: 132px;
+    background-color: white;
+    border-radius: 50%;
+    float: left;
+    margin-left: 19px;
+}
+.yuan2 i{
+    width: 46px;
+    height: 40px;
+    overflow: hidden;
+    background-image: url("../img/tu.png");
+    margin-top: 35px;
+}
+.concept{
+    background-position: 1px -29px;
+}
+.yuan2 p{
+    font-weight: 500;
+}
+.idea{
+    background-position: -229px -29px;
+}
+.design{
+    background-position:  -43px -30px;
+}
+.test{
+    background-position: -99px -23px;
+}
+.launch{
+    background-position: -149px -29px;
+}
+.develop{
+    background-position: -192px -29px;
+}
+.jiantou{
+    width: 68px;
+    float: left;
+}
+.jiantou i{
+    width: 18px;
+    height: 18px;
+    background-image: url("../img/tu.png");
+    background-position: -286px 0;
+    margin-top: 57px;
+}
+.content-6 .middle{
+    margin-top: 30px;
+}
+.triangle5{
+    height: 0px;
+    width: 0px;
+    border-bottom: 70px solid #eeeeee;
+    border-right: 1366px solid #52edc7;
+    margin-top: 46px;
+}
+/*内容6*/
+
+/*内容7*/
+.laba{
+    background-position: -93px 0;
+}
+.g{
+    background-color: #52edc7;
+    height: 14px;
+}
+.kuang2{
+    width: 569px;
+    height: 362px;
+    background-color: white;
+    margin: 0 auto;
+
+}
+.kuang2 p{
+    font-size: 60px;
+    font-family:宋体;
+    color: #52edc7;
+    text-decoration: inherit;
+}
+.face3{
+    width: 179px;
+    height: 179px;
+    border-radius: 50%;
+    background-color: #eeeeee;
+    float: left;
+    margin-left: 43px;
+}
+.face3 i{
+    height: 169px;
+    width: 169px;
+    border-radius: 50%;
+    overflow: hidden;
+    background-image: url(../img/face2.png);
+    margin-top: 5px;
+}
+.content-7{
+    background-color: #eeeeee;
+}
+.kuang2 .kuangp2{
+    float: left;
+    font-size: 14px;
+    width: 266px;
+    height: 149px;
+    color: #000;
+    margin: 30px;
+}
+.kuangp2 span{
+    color: #888b90;
+}
+.duli{
+    width: 253px;
+    height: 42px;
+    border-bottom: 1px solid #52edc7;
+    margin: 45px auto;
+}
+.content7-tu{
+    width: 226px;
+    height:48px;
+    background-image: url(../img/tu.png);
+    background-position: 0 -294px;
+    margin-left: 79px;
+}
+.tomtech{
+    background-position: 0 -245px;
+}
+.pictalogi{
+    background-position: 0 -346px;
+}
+.triangle6{
+    height: 0px;
+    width: 0px;
+    border-top: 70px solid #eeeeee;
+    border-right: 1366px solid white;
+}
+/*内容7*/
+
+/*内容8*/
+.content8kuang{
+    width: 367px;
+    height: 552px;
+    overflow: hidden;
+    float: left;
+}
+.lingxing{
+    width: 90px;
+    height: 90px;
+    position: relative;
+    top: -43px;
+    left: 17px;
+}
+.lingxing p{
+    position: absolute;
+    top: 14px;
+    width: 90px;
+    color: white;
+    font-size: 16px;
+}
+.lingxing-1{
+    border-bottom:45px solid #52edc7;
+    border-right: 45px solid rgba(228, 228, 228, 0);
+    border-left:45px solid rgba(228, 228, 228, 0);
+}
+.lingxing-2{
+    border-top: 45px solid #52edc7;
+    border-right: 45px solid white;
+    border-left:45px solid white;
+}
+.gao{
+    height: 286px;
+    overflow: hidden;
+}
+.wenzi1{
+    width: 300px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.lingxing .line{
+    border-color: #dedede;
+    margin-top: 17px;
+}
+.wenzi2{
+    width: 341px;
+color: #888b90;
+}
+.footer{
+    margin-top: 135px;
+    padding-left: 17px;
+    border-top: 1px solid #dedede;
+    padding-top:6px;
+    color: #888b90;
+}
+.up2{
+    margin: 27px 0;
+}
+.triangle7{
+    height: 0px;
+    width: 0px;
+    border-bottom:64px solid #52edc7;
+    border-right: 1366px solid white;
+}
+/*内容8*/
+
+/*内容9*/
+.weixin{
+    background-position: -160px 0;
+}
+.wenzi3{
+    width: 252px;
+    font-size: 14px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.wenzi3 p{
+    padding-top: 27px;
+}
+.wenzi3 span{
+    font-weight: 600;
+}
+.xiahuaxian{
+    border-bottom: 1px solid black;
+    width: 252px;
+padding-bottom: 10px;
+    font-size: 15px;
+}
+.form{
+    float: left;
+    width: 670px;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.input a,input{
+    width: 312px;
+    height: 51px;
+    margin-left: 30px;
+    margin-top: 40px;
+    color: #c9c9cb;
+    border: 0;
+}
+.message{
+    width: 662px;
+    height: 223px;
+    border-radius: 4px;
+    margin-top: 25px;
+    border: 1px solid #eeeeee;
+    margin-left: 0;
+    color: #c9c9cb;
+}
+.email{
+    background-position: -256px 3px;;
+}
+.input a{
+display: inline-block;
+    border: 3px solid #36967e;
+    border-radius: 4px;
+    text-align: center;
+    line-height: 50px;
+    font-weight: 600;
+    color:#36967e ;
+}
+.triangle8{
+    height: 0px;
+    width: 0px;
+    border-top: 150px solid #52edc7;
+    border-right: 683px solid white;
+    border-left: 683px solid white;
+}
+/*内容9*/
+
+/*内容10*/
+.xiazai{
+    background-position:-191px 0;
+}
+.end{
+    width: 250px;
+    height: 56px;
+    background-color: #f1c40f;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    line-height: 56px;
+    font-weight: 600;
+}
+.content-10 .chatu{
+   margin-top: 30px;
+}
+.thrity{
+    margin-left: 30px;
+}
+.pos{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    padding-top:80px;
+}
+.pos a{
+    width: 126px;
+    height: 42px;
+    border: 2px solid white;
+    border-radius: 3px;
+    display: inline-block;
+    line-height: 42px;
+    color: white;
+    margin-top: 10px;
+}
+.pos p{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 32px;
+}
+.pox li{
+    font-size: 10px;
+}
+/*内容10*/
