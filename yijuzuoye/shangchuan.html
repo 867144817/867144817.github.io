@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FileReader</title>
+</head>
+<body>
+<input type="file" name="file" id="files">
+<div id="box"></div>
+
+
+<script src="http://lib.baomitu.com/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
+<script src="js/ajaxfileupload.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+    $.ajax({
+        type: 'post',
+        url: 'http://www.zhijunxing.com/yiju/landlordLogin.action',
+        dataType: 'jsonp',
+        data: {
+            lname:'12345688',
+            lpassword:'123456'
+        },
+        success: function (data) {
+            console.log(data);
+
+        }
+    });
+    $('#files').change(function () {
+
+        if (typeof FileReader == 'undefined') {
+            alert("检测到您的浏览器不支持FileReader对象！");
+        }
+        var reader = new FileReader();
+        reader.readAsDataURL($('input').get(0).files[0]);
+        console.log(typeof reader);
+        reader.onload = function () {
+            $('#box').append('<img src="' + reader.result + '"/>');
+            $.ajax({
+                type: 'post',
+                url: 'http://www.zhijunxing.com/yiju/uqdateLandlord.action',
+                dataType: 'jsonp',
+                fileElementId:'files',
+                success: function (data) {
+                    console.log(data);
+                }
+            })
+        }
+    });
+
+
+</script>
+</body>
+</html>

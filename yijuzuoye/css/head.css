@@ -1,0 +1,57 @@
+.head{
+    width: 100%;
+    background-color: #75a749;
+    height: 46px;
+    padding-top: 10px;
+    color: white;
+}
+.zufang{
+    display: inline-block;
+    width: 620px;
+    background-color: white;
+    border-radius: 10px;
+    color: #333333;
+    line-height: 36px;
+   margin-left: 111px;
+    padding-left: 23px;
+    vertical-align: top;
+}
+.sj3{
+    width: 0;
+    height: 0;
+    border-left:4px solid rgba(0,0,0,0);
+    border-right:4px solid rgba(0,0,0,0);
+    border-top:5px solid #999999;
+}
+.ss{
+    background-color:#5f883b;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 124px;
+    height: 36px;
+}
+.chatu{
+    background: url("../img/icon.png");
+    width: 23px;
+    height: 24px;
+    top:6px;
+    position: relative;
+}
+s{
+    display: inline-block;
+
+}
+a{
+    display: inline-block;
+}
+.logo{
+    background: url("../img/logo.png");
+    width: 150px;
+    height: 36px;
+}
+.denglu{
+    color: white;
+}
+.head a{
+    color: white;
+}

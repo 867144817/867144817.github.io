@@ -1,0 +1,38 @@
+ body,p,ul,h1,h2,h3,h4,h5,h6,ol,dl,th,td,input,s{
+            margin:0;
+            padding: 0;
+        }
+        ul,ol{
+            list-style-type: none;
+        }
+        em,i{
+            font-style: normal;
+        }
+        b,strong,h1,h2,h3,h4,h5,h6,th{
+            font-weight: normal;
+            font-size: 12px;
+        }
+        a,u,s{
+            text-decoration: none;
+        }
+        body{
+            font-size: 14px ;
+            color: black;
+            /*line-height: 1.5;*/
+        }
+        img,input,button{
+            border:0;
+        }
+        a{
+            color: black;
+        }
+.f-clear:before,.f-clear:after{
+				content:"";
+				clear:both;
+				display:block;
+				height: 0px;
+				width:0px;
+				overflow:hidden;
+				font-size:0;
+				line-height:0;
+}

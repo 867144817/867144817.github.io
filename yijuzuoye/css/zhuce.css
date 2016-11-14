@@ -1,0 +1,216 @@
+.bg{
+    background: url("../img/em-10.jpg");
+    width: 100%;
+    height: 654px;
+}
+.chatu{
+    background: url("");
+}
+img{
+    margin-top: 20px;
+}
+.zc{
+    width: 520px;
+    height: 524px;
+    background-color: white;
+    border-radius: 3px;
+}
+.p1{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 40px;
+}
+.ming{
+    width: 170px;
+    line-height: 60px;
+}
+.s1{
+    width: 268px;
+    /*height: 40px;*/
+    line-height: 40px;
+}
+s{
+    display: inline-block;
+
+}
+.lg{
+    width: 295px;
+    line-height: 60px;
+    font-size: 12px;
+}
+.i1{
+    width: 235px;
+    font-size: 14px;
+    line-height: 40px
+}
+i{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    position: relative;
+    top: 5px;
+}
+.b1{
+    background: url("../img/icon2.png") -354px 0;
+}
+.b2{
+    background: url("../img/icon2.png") -371px 0;
+}
+.b3{
+    background: url("../img/icon2.png") -410px 4px;
+}
+.b4{
+    background: url("../img/icon2.png") -429px 0;
+}
+.s2{
+    width: 118px;
+    line-height: 40px;
+}
+.s3{
+    width: 100px;
+    line-height: 40px;
+    background-color: #b0b0b0;
+    color: white;
+}
+.s4 {
+    width: 12px;
+    height: 12px;
+    border-radius: 2px;
+    position: relative;
+}
+.s4 s{
+    width: 12px;
+    height: 12px;
+    position: absolute;
+}
+.lh{
+    line-height: 30px;
+}
+.i2{
+    width: 268px;
+    line-height: 40px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    color: white;
+}
+.lh-c3{
+    color: #b0b0b0;
+}
+.s5{
+    background: url("../img/icon2.png") 1px -226px;
+
+}
+.zc-fenge{
+    color: #999999;
+}
+.zc-fenge-x{
+    border-bottom: 1px dashed #999999;
+    width: 110px;
+}
+.zc-chatu1{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #5ec5f2;
+    margin-left: 45px;
+}
+a{
+    display: inline-block;
+}
+.zc-tu{
+    width: 35px;
+    height: 35px;
+
+}
+
+.zc-tu2{
+    width: 41px;
+    height: 35px;
+
+}
+.b5{
+    background-color: #5ec5f2;
+}
+.b6{
+    background-color: #f69a85;
+}
+.b7{
+    background-color: #7ee885;
+}
+.chatufather{
+    width: 270px;
+    margin-top: 20px;
+}
+.s7{
+    background: url("../img/icon2.png") -37px -81px;
+    position: relative;
+    top:10px;
+    left:11px;
+}
+.s8{
+    background: url("../img/icon2.png") -76px -81px;
+    position: relative;
+    top:10px;
+    left:12px;
+}
+.s9{
+    background: url("../img/icon2.png") -117px -81px;
+    position: relative;
+    top:10px;
+    left:11px;
+}
+.chenggong{
+    position: absolute;
+    /*display: block;*/
+    top: 0;
+    left:0;
+    width: 100%;
+height: 918px;
+    background-color: rgba(0,0,0,0.6);
+    /*background-color: red;*/
+
+}
+.tiaozhuan{
+    position: fixed;
+    width: 298px;
+    height: 178px;
+    border-radius: 4px;
+    background-color: white;
+    left: 50%;
+    top:30%;
+    margin-left: -150px;
+    /*margin-top: -100px;*/
+    display: block;
+}
+.chenggong-p1{
+    /*width: 190px;*/
+    /*height: 25px;*/
+    line-height: 35px;
+    font-size: 20px;
+    margin-top: 46px;
+}
+.chenggong s{
+
+    width: 24px;
+    height: 24px;
+    position: relative;
+    top: 5px;
+}
+.chenggong-s2{
+    background: url("../img/icon.png") -301px 0;
+}
+.chenggong-s1{
+    background: url("../img/icon.png") -361px 0;
+    cursor: pointer;
+}
+.chenggong-p2{
+    font-size: 12px;
+    margin-top: 30px;
+    display: block;
+}
+input{
+    height: 40px;
+}
+.ming .p2{
+    /*width: 110px;*/
+}
