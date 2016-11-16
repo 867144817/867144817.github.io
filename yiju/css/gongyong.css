@@ -1,0 +1,134 @@
+.center{
+    text-align: center;
+}
+.yin{
+    display: none;
+}
+.auto{
+    margin: 0 auto;
+}
+.right{
+    float: right;
+}
+.left{
+    float: left;
+}
+body .left0{
+    margin-left: 0;
+}
+body .zero{
+    margin: 0;
+    /*padding: 0;*/
+}
+.middle{
+    width: 1150px;
+    margin: 0 auto;
+}
+.head input{
+    color: #999999;
+    width: 400px;
+    font-size: 14px;
+}
+.tu1{
+    background-image: url("../img/em-01.jpg");
+}
+.tu2{
+    background-image: url("../img/em-02.jpg");
+}
+.tu3{
+    background-image: url("../img/em-03.jpg");
+}
+.tu4{
+    background-image: url("../img/em-04.jpg");
+    background-size: cover;
+}
+.tu5{
+    background-image: url("../img/em-05.jpg");
+    background-size: cover;
+}
+.tu6{
+    background-image: url("../img/em-06.jpg");
+}
+.tu7{
+    background-image: url("../img/em-07.jpg");
+}
+.tu8{
+    background-image: url("../img/em-08.jpg");
+}
+.tu9{
+    background-image: url("../img/em-9.jpg");
+}
+.tu10{
+    background: url("../img/icon.png") -240px 0 no-repeat;
+}
+.tu11{
+    background: url("../img/icon.png") -267px 0 no-repeat;
+}
+.tu12{
+    background: url("../img/icon.png") -285px -25px no-repeat;
+}
+.s6{
+    color: #666666;
+}
+.sj3{
+    width: 0;
+    height: 0;
+    border-left:4px solid rgba(0,0,0,0);
+    border-right:4px solid rgba(0,0,0,0);
+    border-top:5px solid #999999;
+}
+.bc{
+    line-height: 35px;
+    border-radius: 5px;
+    color: white;
+}
+.c{
+    background-color: #75a749;
+    color: white;
+}
+.c3{
+    background-color: #cccccc;
+}
+.c2{
+    color: #eb5f00;
+}
+.biankuang{
+
+    line-height: 32px;
+    border-radius: 5px;
+    border: 1px solid #cccccc;
+    padding-left: 13px;
+}
+.p0{
+    padding: 0;
+}
+.tiaojian{
+    border: 1px solid #ffa422;
+    color: #ffa422;
+    line-height: 22px;
+    margin-left: 12px;
+    border-radius: 2px;
+    padding: 0 10px;
+}
+.yema a{
+    /*width: 28px;*/
+    /*height: 28px;*/
+    border-radius: 0;
+    padding: 0 10px;
+    margin-left: 8px;
+    line-height: 30px;
+    border: 1px solid #cccccc;
+}
+.yema{
+    margin-top: 40px;
+}
+.yema .dangqianyema{
+    border: 0;
+
+}
+.yema s{
+    margin-left: 8px;
+}
+.c9{
+    color: #999999;
+}

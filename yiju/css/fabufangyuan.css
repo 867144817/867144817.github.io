@@ -1,0 +1,124 @@
+h1{
+    font-size: 24px;
+    font-weight: 600;
+    margin: 39px auto;
+}
+.xinxi{
+    line-height: 35px;
+
+}
+.shier span{
+    float: right;
+}
+
+.one{
+    width: 354px;
+}
+.two{
+    width: 113px;
+}
+.twos{
+    width: 100px;
+}
+.xinxi2{
+    line-height: 55px;
+}
+
+.three{
+    width: 70px;
+}
+.four{
+    width: 110px;
+}
+.si{
+    width: 108px;
+}
+
+.five{
+    width: 125px;
+}
+.six{
+    width: 515px;
+}
+
+.seven{
+    width: 166px;
+    font-size: 16px;
+}
+.nine{
+    width: 167px;
+}
+.ten{
+    width: 225px;
+}
+.shiyi{
+    width: 330px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+h2{
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 28px;
+}
+.shier{
+    width: 111px;
+}
+.biankuang .sj3{
+    margin-right: 13px;
+    margin-top: 14px;
+}
+/*.shier i{*/
+    /*color: #eb5f00;*/
+/*}*/
+input{
+    height: 32px;
+}
+.xin-put{
+    height: 20px;
+}
+.two input{
+    width: 70px;
+    /*margin-left: 32px;*/
+}
+.w80{
+    width: 80px;
+}
+.w50{
+    width: 50px;
+}
+.w20{
+    width: 20px;
+}
+label{
+    display: inline-block;
+}
+.xuanzhong{
+    border-color: #75a749;
+    background: url("../img/png1.png") 93px 15px no-repeat;
+}
+.yincang{
+    opacity: 0;
+    /*top: 285px;*/
+    width: 200px;
+    left:0;
+}
+
+.chuanru{
+    width: 0;
+}
+.charuchuantu{
+    margin-left: 111px;
+}
+.chuantu{
+    margin-left: 111px;
+    margin-top: 15px;
+    height: 200px;
+    width: 800px;
+    overflow: hidden;
+}
+.chuantu img{
+     float: left;
+     height: 200px;
+     width: 200px;
+ }

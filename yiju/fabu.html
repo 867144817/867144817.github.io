@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="css/clear-css.css">
+    <link rel="stylesheet" href="css/gongyong.css">
+    <link rel="stylesheet" href="css/fabufangyuan.css">
+    <link rel="stylesheet" href="css/head.css">
+    <link rel="stylesheet" href="css/bottom.css">
+</head>
+<body>
+<div class="head">
+    <div class="middle">
+        <a class="logo" href="http://192.168.0.164/shouye.html"></a>
+        <div class="right lj">
+            <a class="denglu" href="http://192.168.0.164/denglu.html">登录</a> |
+            <a href="http://192.168.0.164/zhuce.html">注册</a>
+        </div>
+        <div class="zufang">
+            郑州
+            <a href="###" class="sj3"></a>
+            <input type="text" class="put" placeholder="请输入小区名称/区域/厅室">
+            <a href="###" class="ss right center">
+                <s class="chatu">
+                </s>
+                搜房源
+            </a>
+        </div>
+    </div>
+</div>
+<form action="">
+    <div class="middle">
+            <h1 class="center">免费发布房源</h1>
+        <div class="f-clear xinxi">
+            <h2>类别和身份</h2>
+            <p class="left shier">
+                <span class=""><i class="c2">*</i>&nbsp出租方式：　</span>
+                <br><span class=""><i class="c2">*</i>&nbsp身份：　</span>
+            </p>
+            <p class="left dx">
+                <input name="rentway" value="整套" type="radio" checked="" class="zlff xin-put">
+            整套出租
+            <input name="rentway" value="单间" type="radio" class="xin-put">
+            单间出租
+            <input name="rentway" value="床位" type="radio" class="xin-put">
+            床位出租
+            <br>
+                <input name="type" value="个人" type="radio" checked="checked" class="xin-put fdxx">
+                <!--<label class="checked" name="d">s个人</label>-->个人
+                <input name="type" value="经纪人" type="radio" class="xin-put">
+                经纪人
+
+            </p>
+        </div>
+        <h2>基础信息</h2>
+        <div class="xinxi2 f-clear">
+
+            <p class="left shier">
+                <span><i class="c2">*</i>&nbsp小区名称：　</span>
+                <br><span><i class="c2">*</i>&nbsp房屋户型：　</span>
+                <br><span><i class="c2">*</i>&nbsp楼层：　</span>
+                <br><span><i class="c2">*</i>&nbsp朝向装修：　</span>
+                <br><span><i class="c2">*</i>&nbsp租金：　</span>
+            </p>
+            <p class="left">
+              <s class="one biankuang">  <input id="villageName" type="text" class="" placeholder="请输入小区姓名" name="villageName"></s>
+                <br>
+               <s class="two biankuang c9">　<input id="shi" type="text" class="center" name="Shi">室</s>
+
+               <s class="two biankuang c9">　<input id="ting" type="text" class="center" name="ting">厅</s>
+                 <s class="two biankuang c9">　<input id="wei" type="text" class="center" name="wei">卫</s>
+                <s class="two biankuang c9">　<input id="area" type="text" class="center" name="area">㎡</s>
+                <!--<input type="text" class="two biankuang" value="">-->
+                <br>
+                <!--<input type="text" class="two biankuang">-->
+                <s class="two biankuang c9">第<input id="floor" type="text" class="center" name="floor">层</s>
+                <s class="two biankuang c9">共<input id="countfloor" type="text" class="center" name="countfloor">层</s>
+
+                <!--<input type="text" class="two biankuang">-->
+                <br><s class="three biankuang">
+                <input type="text" value="南" name="direction" id="direction" class="w20">
+                <a href="###" class="sj3 right"></a>
+            </s>
+                <s class="si biankuang">
+                    <input id="level" type="text" value="精装修" name="level" class="w50">
+                    <a href="###" class="sj3 right"></a>
+                </s>
+                <br>
+                <s class="five biankuang">
+                    <input id="price" type="text" class="center w80" name="price">
+                    <span class="c9">元/月</span></s>
+
+                <s class="five biankuang">
+                    <input id="paymethod" type="text" value="押一付三" class="w80" name="paymethod">
+                    <a href="###" class="sj3 right"></a></s>
+            </p>
+        </div>
+
+        <div class="xinxi2 f-clear">
+            <h2>详细信息</h2>
+            <p class="left shier">
+                <span><i class="c2">*</i>&nbsp标题：　</span>
+                <br><span><i class="c2">*</i>&nbsp房屋配置：　</span>
+                <br> <br><span><i class="c2">*</i>&nbsp特色：　</span>
+                <br><span><i class="c2">*</i>&nbsp地址：　</span>
+
+            </p>
+            <p class="left por" id="">
+
+                <input id="tittle" type="text" class="six biankuang" name="tittle" value="">
+                <br>
+                <input id="bed" type="checkbox" class="yin" value="床" name="furniture" checked="checked">
+                <label name="bed" class=" four biankuang center p0 xuanzhong">床</label>
+                <input id="chest" type="checkbox" class="yin" value="衣柜" name="furniture">
+                <label name="chest" class=" four biankuang center p0">衣柜</label>
+                <input id="sofa" type="checkbox" class="yin" value="沙发" name="furniture">
+                <label name="sofa" class=" four biankuang center p0">沙发</label>
+                <input id="desk" type="checkbox" class="yin" value="书桌" name="furniture">
+                <label name="desk" class=" four biankuang center p0">书桌</label>
+                <input id="television" type="checkbox" class="yin" value="电视" name="furniture">
+                <label name="television" class=" four biankuang center p0">电视</label>
+                <input id="freezer" type="checkbox" class="yin" value="冰箱" name="furniture">
+                <label name="freezer" class=" four biankuang center p0">冰箱</label>
+                <input id="wb" type="checkbox" class="yin" value="微波炉" name="furniture">
+                <label name="wb" class=" four biankuang center p0">微波炉</label>
+                <input id="dc" type="checkbox" class="yin" value="电磁炉" name="furniture">
+                <label name="dc" class=" four biankuang center p0">电磁炉</label>
+                <br>
+                <input id="xy" type="checkbox" class="yin" value="洗衣机" name="furniture">
+                <label name="xy" class=" four biankuang center p0">洗衣机</label>
+                <input id="kt" type="checkbox" class="yin" value="空调" name="furniture">
+                <label name="kt" class=" four biankuang center p0">空调</label>
+                <input id="rs" type="checkbox" class="yin" value="热水器" name="furniture">
+                <label name="rs" class=" four biankuang center p0">热水器</label>
+                <input id="kd" type="checkbox" class="yin" value="宽带" name="furniture">
+                <label name="kd" class=" four biankuang center p0">宽带</label>
+                <input id="nq" type="checkbox" class="yin" value="暖气" name="furniture">
+                <label name="nq" class=" four biankuang center p0">暖气</label>
+                <br>
+                <input id="features" type="text" class="six biankuang" name="features">
+                <br> <input id="address" type="text" class="six biankuang" name="address">
+                <br></p> </div>
+        <div class="charuchuantu por">
+                <input type="button" class="xinxi bc seven center c" id="sctp" value="上传图片">
+                <!--<button class=" bc seven center c">选择照片</button>-->
+                <input type="file" id="file1" name="photo" class="yincang poa" value="">
+                <!--<input type="text" name="photo" class="chuanru" value="" >-->
+                </div>
+                <!--<br>-->
+                <div class="chuantu biankuang p0"></div>
+        <div class="xinxi2 f-clear">
+            <h2>详细信息</h2>
+            <p class="left shier">
+                <span><i class="c2">*</i>&nbsp联系人：　</span>
+                <br><span><i class="c2">*</i>&nbsp联系电话：　</span>
+            </p>
+            <p class="left">
+                <input id="linkman" type="text" class="nine biankuang" name="linkman">
+                <br>  <input id="linkphone" type="text" class="ten biankuang" name="linkphone">
+
+            </p>
+        </div>
+        <input type="button" class="xinxi bc center shiyi c" id="fabu" value="发布"></input>
+        <!--<input type="text"name="condition">-->
+        <!--<input type="text"name="room">-->
+        </div>
+</form>
+<div class="di">
+    <div class="middle">
+        <div class="left">
+            <p>友情链接：武汉租房　厨房电器品牌　房展汇　36搜房网　无锡二手车　合肥房产网　房产论坛　租房问答　郑州租房　郑州房价　好租　郑州租房　密封胶
+                <br><br>  南山写字楼　罗湖写字楼　上海写字楼出租　广州写字楼出租　北京办公室出租　深圳写字楼出租　房产季　好租　好租</p>
+            <div class="xian"></div>
+            <p>北京易居房产经纪有限公司 | 网络经营许可证 京ICP备11024601号-12
+                <br><br> © Copyright©2010-2016 易居yiju.com版权所有</p>
+        </div>
+        <div class="right">
+            <i class="chatu3"></i>
+            <p class="center zero">微信扫一扫</p>
+        </div>
+    </div>
+</div>
+<script src="js/jquery.js"></script>
+<!--<script src="js/ajax.js"></script>-->
+<script src="js/aaa.js"></script>
+<script src="js/gongyong.js"></script>
+<script src="js/fabu.js"></script>
+</body>
+</html>

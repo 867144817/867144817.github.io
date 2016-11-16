@@ -1,0 +1,35 @@
+/*底部*/
+.di{
+    background-color: #242623;
+    width: 100%;
+    height: 221px;
+    padding-top: 41px;
+}
+.por{
+    position: relative;
+    /*top:41px;*/
+}
+.di p{
+    /*padding-top: 43px;*/
+    color: #acadac;
+    font-size: 12px;
+}
+.xian{
+    width: 948px;
+    border-bottom: 1px solid #444444;
+    margin-top: 50px;
+}
+.chatu3{
+    width: 152px;
+    height: 154px;
+    background: url("../img/二维码.png");
+    display: inline-block;
+    /*margin-top: 41px;*/
+}
+.poa{
+    position: absolute;
+
+}
+.di-p2{
+    margin-top: 30px;
+}

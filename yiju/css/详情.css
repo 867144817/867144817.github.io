@@ -1,0 +1,182 @@
+.p1{
+    background-color: #eeeeee;
+    font-size: 14px;
+    line-height: 32px;
+    color: #666666;
+}
+i{
+    display:block;
+}
+.xq{
+    width: 450px;
+    height: 338px;
+    /*background-size: 450px 340px;*/
+}
+.xq img{
+    width: 450px;
+    height: 338px;
+    /*background-size: 450px 340px;*/
+}
+.xiangxi{
+    width: 637px;
+}
+.p2{
+    font-size: 26px;
+    font-weight: 600;
+    color: black;
+}
+.p3{
+   color: #666666;
+    font-size: 13px;
+    margin-top: 40px;
+    line-height: 32px;
+}
+.p3 span{
+    color: #eb5f00;
+    font-size: 22px;
+}
+.ma{
+    color: #666666;
+    font-size: 13px;
+    margin-top: 20px;
+}
+
+sub{
+    font-size: 13px;
+}
+.chatu1{
+    width: 36px;
+    height: 36px;
+    background: url("../img/icon.png") 0 -82px;
+    margin: 17px;
+}
+.beijingse{
+    background-color: #75a749;
+    color: white;
+    /*padding-left: 16px;*/
+    margin-top: 84px;
+    font-size: 18px;
+    border-radius: 5px;
+    line-height: 70px;
+    width: 280px;
+
+}
+.beijingse span{
+    /*line-height: 36px;*/
+    font-weight: 600;
+}
+.chatu2{
+    width: 20px;
+    height: 17px;
+    background: url("../img/icon.png") -22px -2px;
+    margin-left: 40px;
+}
+.hui{
+    color: #666666;
+}
+.chatu4{
+    width: 23px;
+    height: 18px;
+    background: url("../img/icon.png") -68px -2px;
+    margin-left: 30px;
+}
+.hidden-ul img{
+    width: 106px;
+    height: 78px;
+    /*overflow: hidden;*/
+
+    margin-right: 10px;
+}
+.suofang{
+    background-size:106px 78px;
+}
+.suofang1{
+    background-size: cover;
+}
+.suofang2{
+    background-size: 106px auto;
+}
+.yidong{
+    background-position:0 -82px;
+    background-size: 106px auto;
+}
+.xian2{
+    width: 100%;
+    border-bottom: 1px solid #cccccc;
+}
+.chatu6{
+    width: 21px;
+    height: 17px;
+    background-image: url("../img/icon.png");
+    margin-left: 16px;
+}
+.bed{
+background-position: 0 -28px;
+}
+.bureau{
+    background-position: -22px -31px;
+}
+.sofa{
+    background-position: -44px -29px;
+}
+.desk{
+    background-position: -69px -29px;
+}
+.television{
+    background-position: -90px -29px;
+}
+.freezer{
+    background-position: -110px -29px;
+}
+.oven{
+    background-position: -131px -29px;
+}
+.cooker{
+    background-position: -153px -31px;
+}
+.washer{
+    background-position: -174px -29px;
+}
+.air{
+    background-position: -193px -31px;
+}
+.heater{
+    background-position: -217px -30px;
+}
+.broadband{
+    background-position: -240px -30px;
+}
+.nuanqi{
+    background-position: -264px -30px;
+}
+.chatu7{
+    width: 100%;
+    height: 416px;
+    overflow: hidden;
+    background-image: url("../img/ditu-01.jpg");
+}
+.ditu{
+    margin-top: 40px;
+}
+.chatu8{
+    width: 264px;
+    height: 193px;
+}
+.s6 p{
+    color: black;
+}
+.s6 li{
+    font-size: 12px;
+    display: inline-block;
+    margin-left: 18px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.hidden{
+    overflow: hidden;
+    width: 460px;
+    margin-top: 10px;
+}
+.hidden-ul{
+    width: 9999px;
+}

@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #dv{
+            width: 500px;
+            height: 500px;
+            overflow: hidden;
+position: relative;
+        }
+        #banner{
+            width:2000px;
+            height: 500px;
+
+            position: relative;
+        }
+        ul{
+            list-style: none;
+            padding: 0;
+        }
+        li{
+            width: 500px;
+            height: 500px;
+            float: left;
+            background-size: 500px 500px;
+        }
+        .a{
+            background-image: url("img/em-04.jpg");
+        }
+        .b{
+            background-image: url("img/em-01.jpg");
+        }
+        .c{
+            background-image: url("img/em-02.jpg");
+        }
+        a{
+            display: inline-block;
+            font-size: 60px;
+            position: absolute;
+            top: 45%;
+
+        }
+
+        #you{
+            right: 0;
+        }
+        #btn{
+            position: absolute;
+            bottom:0;
+            left: 38%;
+        }
+        #btn li{
+            border-radius: 50%;
+            width: 15px;
+            height: 15px;
+            border: 1px solid #000000;
+            margin-left: 5px;
+        }
+        .active{
+            background-color: #000;
+        }
+    </style>
+</head>
+<body>
+<div id="dv">
+
+    <div >
+    <ul id="banner">
+        <li class="a"></li>
+        <li class="b"></li>
+        <li class="c"></li>
+        <li class="b"></li>
+    </ul>
+    </div>
+    <ul  id="btn">
+        <li class="active"></li>
+        <li class=""></li>
+        <li class=""></li>
+        <li class=""></li>
+    </ul>
+    <a href="###" id="zuo"><</a>
+    <a href="###" id="you">></a>
+</div>
+<!--<script src="js/jquery.js"></script>-->
+<!--<script src="js/carousel.js"></script>-->
+<script>
+//    $('#dv').carousel({
+//        element: $('#banner'),
+//        time: 2000,
+//        left: $('.zuo'),
+//        right: $('.you'),
+//        oli: 1
+//    },false,false);
+//    console.log();
+    var dv = document.getElementById('dv');
+    var btn = document.getElementById('btn').getElementsByTagName('li');
+    var zuo = document.getElementById('zuo');
+    var you = document.querySelector('#you');
+     var oli = document.querySelector('li');
+     var oul = document.querySelector('ul');
+//oul.style.left = '-500px';
+//console.log();
+var liw = oli.offsetWidth;
+    var ulw = oul.offsetWidth;
+console.log(btn.length);
+function otimer(){
+    index++;
+    if(index*liw >= ulw){
+        index = 0;
+    }
+    oul.style.left = -index*liw +'px';
+for(var i=0;i<btn.length;i++){
+    btn[i].removeAttribute('class','active');
+}
+
+    btn[index].setAttribute('class','active');
+
+}
+var index = 0;
+var itime = setInterval(otimer,1000);
+dv.onmouseout = function(){
+    itime = setInterval(otimer,1000)
+};
+dv.onmouseover = function(){
+    clearInterval(itime);
+};
+
+//   you.onclick = function(){
+//       index++;
+//       console.log(index);
+//       if(index*liw >= ulw){
+//           index = 0;
+//       }
+//       oul.style.left = -index*liw +'px';
+//   };
+you.onclick = otimer;
+zuo.onclick = function(){
+       index++;
+    var acv = (ulw - index*liw)/liw;
+//       console.log(index);
+       if(index*liw >= ulw){
+           index = 0;
+       }
+    if(index >0){
+        oul.style.left = -(ulw-index*liw) +'px';
+    }else{
+        oul.style.left = index*liw +'px';
+    }
+
+    for(var i=0;i<btn.length;i++){
+        btn[i].removeAttribute('class','active');
+    }
+
+    btn[acv].setAttribute('class','active');
+   };
+//for (var i=0;i<btn.length;i++){
+////    btn[i].removeAttribute('class','active');
+    btn[0].onclick = function(){
+
+        for (var ss=0;ss<btn.length;ss++){
+            btn[ss].removeAttribute('class','active');
+        }
+//        console.log(this.index);
+        oul.style.left = 0*liw +'px';
+        this.setAttribute('class','active');
+    };
+btn[1].onclick = function(){
+
+        for (var ss=0;ss<btn.length;ss++){
+            btn[ss].removeAttribute('class','active');
+        }
+//        console.log(this.index);
+        oul.style.left = -1*liw +'px';
+        this.setAttribute('class','active');
+    };
+btn[2].onclick = function(){
+
+        for (var ss=0;ss<btn.length;ss++){
+            btn[ss].removeAttribute('class','active');
+        }
+//        console.log(this.index);
+        oul.style.left = -2*liw +'px';
+        this.setAttribute('class','active');
+    } ;
+btn[3].onclick = function(){
+
+        for (var ss=0;ss<btn.length;ss++){
+            btn[ss].removeAttribute('class','active');
+        }
+//        console.log(this.index);
+        oul.style.left = -3*liw +'px';
+        this.setAttribute('class','active');
+    };
+//}
+</script>
+</body>
+</html>
