@@ -2,61 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78ae4e48-ed61-4273-a797-f6664d79cb9e" name="默认的" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/denglu.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yiju/轮播.html" afterPath="$PROJECT_DIR$/yiju/轮播.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/css/bottom.css" afterPath="$PROJECT_DIR$/css/bottom.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/css/clear-css.css" afterPath="$PROJECT_DIR$/css/clear-css.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/css/fabufangyuan.css" afterPath="$PROJECT_DIR$/css/fabufangyuan.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/css/gerenzhongxin.css" afterPath="$PROJECT_DIR$/css/gerenzhongxin.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/css/gongyong.css" afterPath="$PROJECT_DIR$/css/gongyong.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/css/head.css" afterPath="$PROJECT_DIR$/css/head.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/css/shouye.css" afterPath="$PROJECT_DIR$/css/shouye.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/css/zhuce.css" afterPath="$PROJECT_DIR$/css/zhuce.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/css/筛选.css" afterPath="$PROJECT_DIR$/css/筛选.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/css/详情.css" afterPath="$PROJECT_DIR$/css/详情.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/fabu.html" afterPath="$PROJECT_DIR$/fabu.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/gerenzhongxin.html" afterPath="$PROJECT_DIR$/gerenzhongxin.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/img/aa-06.png" afterPath="$PROJECT_DIR$/img/aa-06.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/img/aa-07.png" afterPath="$PROJECT_DIR$/img/aa-07.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/img/aa-08.png" afterPath="$PROJECT_DIR$/img/aa-08.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/img/aa-09.png" afterPath="$PROJECT_DIR$/img/aa-09.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/img/bj.jpg" afterPath="$PROJECT_DIR$/img/bj.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/img/ditu-01.jpg" afterPath="$PROJECT_DIR$/img/ditu-01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/img/em-01.jpg" afterPath="$PROJECT_DIR$/img/em-01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/img/em-02.jpg" afterPath="$PROJECT_DIR$/img/em-02.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/img/em-03.jpg" afterPath="$PROJECT_DIR$/img/em-03.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/img/em-04.jpg" afterPath="$PROJECT_DIR$/img/em-04.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/img/em-05.jpg" afterPath="$PROJECT_DIR$/img/em-05.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/img/em-06.jpg" afterPath="$PROJECT_DIR$/img/em-06.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/img/em-07.jpg" afterPath="$PROJECT_DIR$/img/em-07.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/img/em-10.jpg" afterPath="$PROJECT_DIR$/img/em-10.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/img/em-8.jpg" afterPath="$PROJECT_DIR$/img/em-8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/img/em-9.jpg" afterPath="$PROJECT_DIR$/img/em-9.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/img/icon.png" afterPath="$PROJECT_DIR$/img/icon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/img/icon2.png" afterPath="$PROJECT_DIR$/img/icon2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/img/logo.png" afterPath="$PROJECT_DIR$/img/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/img/png1.png" afterPath="$PROJECT_DIR$/img/png1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/img/title.png" afterPath="$PROJECT_DIR$/img/title.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/img/touxiang.png" afterPath="$PROJECT_DIR$/img/touxiang.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/img/touxiang2.png" afterPath="$PROJECT_DIR$/img/touxiang2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/img/二维码.png" afterPath="$PROJECT_DIR$/img/二维码.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/js/aaa.js" afterPath="$PROJECT_DIR$/js/aaa.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/js/ajax.js" afterPath="$PROJECT_DIR$/js/ajax.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/js/carousel.js" afterPath="$PROJECT_DIR$/js/carousel.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/js/dl.js" afterPath="$PROJECT_DIR$/js/dl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/js/fabu.js" afterPath="$PROJECT_DIR$/js/fabu.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/js/geren.js" afterPath="$PROJECT_DIR$/js/geren.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/js/gongyong.js" afterPath="$PROJECT_DIR$/js/gongyong.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/js/jquery.js" afterPath="$PROJECT_DIR$/js/jquery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/js/js1.js" afterPath="$PROJECT_DIR$/js/js1.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/js/shaixuan.js" afterPath="$PROJECT_DIR$/js/shaixuan.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/js/xiangqing.js" afterPath="$PROJECT_DIR$/js/xiangqing.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/js/zc.js" afterPath="$PROJECT_DIR$/js/zc.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/shaixuan.html" afterPath="$PROJECT_DIR$/shaixuan.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/shangchuan.html" afterPath="$PROJECT_DIR$/shangchuan.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/xiangqing.html" afterPath="$PROJECT_DIR$/xiangqing.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yiju/zhuce.html" afterPath="$PROJECT_DIR$/zhuce.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fabu.html" afterPath="$PROJECT_DIR$/fabu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gerenzhongxin.html" afterPath="$PROJECT_DIR$/gerenzhongxin.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shaixuan.html" afterPath="$PROJECT_DIR$/shaixuan.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiangqing.html" afterPath="$PROJECT_DIR$/xiangqing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zhuce.html" afterPath="$PROJECT_DIR$/zhuce.html" />
     </list>
     <ignored path="867144817.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -77,101 +30,71 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="筛选.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/筛选.css">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-64.58064">
+              <caret line="91" column="60" selection-start-line="91" selection-start-column="60" selection-end-line="91" selection-end-column="60" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="详情.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/详情.css">
+      <file leaf-file-name="fabu.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fabu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="89.354836">
+              <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="head.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/head.css">
+      <file leaf-file-name="gerenzhongxin.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gerenzhongxin.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="312.90323">
+              <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="zhuce.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/zhuce.css">
+      <file leaf-file-name="shaixuan.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shaixuan.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="142.58064">
+              <caret line="17" column="64" selection-start-line="17" selection-start-column="64" selection-end-line="17" selection-end-column="64" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bottom.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/bottom.css">
+      <file leaf-file-name="xiangqing.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiangqing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="56.70968">
+              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shouye.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/shouye.css">
+      <file leaf-file-name="zhuce.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zhuce.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-9.935484">
+              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gongyong.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/gongyong.css">
+      <file leaf-file-name="denglu.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/denglu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="clear-css.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/clear-css.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fabufangyuan.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/fabufangyuan.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gerenzhongxin.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/gerenzhongxin.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3859649">
-              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -181,6 +104,18 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/fabu.html" />
+        <option value="$PROJECT_DIR$/gerenzhongxin.html" />
+        <option value="$PROJECT_DIR$/shaixuan.html" />
+        <option value="$PROJECT_DIR$/xiangqing.html" />
+        <option value="$PROJECT_DIR$/zhuce.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsBuildToolPackageJson" detection-done="true" />
@@ -248,6 +183,9 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\实训作业\867144817.github.io" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\实训作业\867144817.github.io" />
       <recent name="E:\实训作业\867144817.github.io\yiju" />
@@ -327,14 +265,20 @@
       <option name="project" value="LOCAL" />
       <updated>1480666954284</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="78214893">
+      <created>1480667101876</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1480667101876</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24968314" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24968314" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -360,7 +304,8 @@
     <MESSAGE value="6666666666" />
     <MESSAGE value="6777777" />
     <MESSAGE value="678+96459" />
-    <option name="LAST_COMMIT_MESSAGE" value="678+96459" />
+    <MESSAGE value="78214893" />
+    <option name="LAST_COMMIT_MESSAGE" value="78214893" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -375,55 +320,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/详情.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/head.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/zhuce.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bottom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/shouye.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/gongyong.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/clear-css.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -441,8 +338,120 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/gerenzhongxin.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3859649">
+        <state vertical-scroll-proportion="-8.5161295">
           <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/shouye.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bottom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/zhuce.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/head.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/详情.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/clear-css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-64.58064">
+          <caret line="91" column="60" selection-start-line="91" selection-start-column="60" selection-end-line="91" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fabu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="89.354836">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gerenzhongxin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="312.90323">
+          <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shangchuan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25730994">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shaixuan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="142.58064">
+          <caret line="17" column="64" selection-start-line="17" selection-start-column="64" selection-end-line="17" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangqing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="56.70968">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhuce.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.935484">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/denglu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
