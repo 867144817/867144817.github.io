@@ -33,7 +33,7 @@ $.ajax({
             var item = '';
             for (var i=0 ;i<data.data.length;i++) {
 
-                item += '<li class="kuang"><a href="http://192.168.0.164/xiangqing.html?id=' + data.data[i].id + '" class="chatu2">' +
+                item += '<li class="kuang"><a href="https://867144817.github.io/xiangqing.html?id=' + data.data[i].id + '" class="chatu2">' +
                     '<img src="http://www.zhijunxing.com/yiju/upload/' +
                     data.data[i].photo.split(',')[0] + '"/><p>' + data.data[i].villageName + '</p><br><div>' + data.data[i].room + '<span class="c1">' + data.data[i].price + '</span> 元/月</div></li>'
             }

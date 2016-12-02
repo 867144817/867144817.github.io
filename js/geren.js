@@ -126,7 +126,7 @@ $('#xgmima input').eq(2).on({
                     success: function (data) {
                         console.log(data);
                         if (data.resultCode == '0000') {
-                            location.href = 'http://192.168.0.164/denglu.html';
+                            location.href = 'https://867144817.github.io/denglu.html';
                         }
                     }
                 })
@@ -199,7 +199,7 @@ $.ajax({
              'href':'###'
              });*/
         }else{
-            location.href = 'http://192.168.0.164/denglu.html';
+            location.href = 'https://867144817.github.io/denglu.html';
         }
     }
 });
@@ -254,7 +254,7 @@ function quitLogin(){
         success: function (data) {
             //console.log(data);
             if(data.resultCode=='0000'){
-                location.href = 'http://192.168.0.164/denglu.html###'
+                location.href = 'https://867144817.github.io/denglu.html###'
                     }
 
 
