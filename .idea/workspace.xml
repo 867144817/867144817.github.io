@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="78ae4e48-ed61-4273-a797-f6664d79cb9e" name="默认的" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/geren.js" afterPath="$PROJECT_DIR$/js/geren.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/js1.js" afterPath="$PROJECT_DIR$/js/js1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/zc.js" afterPath="$PROJECT_DIR$/js/zc.js" />
     </list>
     <ignored path="867144817.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -208,6 +205,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="867144817.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="867144817.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -324,11 +335,17 @@
       <option name="project" value="LOCAL" />
       <updated>1480667734565</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="645764525">
+      <created>1480668011171</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1480668011171</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24968314" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -362,7 +379,8 @@
     <MESSAGE value="78214893" />
     <MESSAGE value="gjhgkjj" />
     <MESSAGE value="kjkljhk" />
-    <option name="LAST_COMMIT_MESSAGE" value="kjkljhk" />
+    <MESSAGE value="645764525" />
+    <option name="LAST_COMMIT_MESSAGE" value="645764525" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
