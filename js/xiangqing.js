@@ -49,20 +49,20 @@ data:{
         }
     }
 });
-var map = new BMap.Map("abc");    // 鍒涘缓Map瀹炰緥
+var map = new BMap.Map("abc");
 
-map.centerAndZoom("郑州", 11);  // 鍒濆鍖栧湴鍥�,璁剧疆涓績鐐瑰潗鏍囧拰鍦板浘绾у埆
-map.addControl(new BMap.MapTypeControl());   //娣诲姞鍦板浘绫诲瀷鎺т欢
-map.setCurrentCity("郑州");          // 璁剧疆鍦板浘鏄剧ず鐨勫煄甯� 姝ら」鏄繀椤昏缃殑
-map.enableScrollWheelZoom(true);     //寮€鍚紶鏍囨粴杞缉鏀�
+map.centerAndZoom("郑州", 11);
+map.addControl(new BMap.MapTypeControl());
+map.setCurrentCity("郑州");
+map.enableScrollWheelZoom(true);
 
-//娣诲姞缂╃暐鍥�
+
 var overView = new BMap.OverviewMapControl();
 var overViewOpen = new BMap.OverviewMapControl({isOpen:true, anchor: BMAP_ANCHOR_BOTTOM_RIGHT});
 map.addControl(overView);
 map.addControl(overViewOpen);
 
-//娣诲姞姣斾緥灏�
+
 var top_left_control = new BMap.ScaleControl({anchor: BMAP_ANCHOR_TOP_LEFT});// 宸︿笂瑙掞紝娣诲姞姣斾緥灏�
 var top_left_navigation = new BMap.NavigationControl();  //宸︿笂瑙掞紝娣诲姞榛樿缂╂斁骞崇Щ鎺т欢
 map.addControl(top_left_control);

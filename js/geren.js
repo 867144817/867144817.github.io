@@ -18,8 +18,7 @@ $('#bbb p').click(function () {
     }
     $('#aaa .xinxi').eq(index).removeClass('yin');
     if(index == 0){
-        //var pageNo = 1;
-        //console.log(index);
+
         Collect(pageNo);
     }
     if(index==1){
@@ -95,15 +94,6 @@ $('#xgmima input').eq(2).blur(function () {
     }
 
 });
-//$('#xgmima a').eq(0).click(function () {
-//    var off=true;
-////        for (var i=0; i<$('.name-t1 input').length;i++){
-////
-////        }
-//    console.log($('#xgmima input').eq(0).css('border-top-color'));
-//
-//
-//});
 
 $('#xgmima input').eq(2).on({
 
@@ -172,15 +162,7 @@ $.ajax({
     url: 'http://www.zhijunxing.com/yiju/loginSession.action',
     dataType: 'jsonp',
     success: function (data) {
-        //console.log(data.success);
-        //if (data.success) {
-        //    $('.lj a').eq(0).html('欢迎  ' + data.data[0].lname).attr('href', 'http://192.168.0.164/gerenzhongxin.html');
-        //    $('#nicheng').eq(0).html(data.data[0].lname).attr('href', 'http://192.168.0.164/gerenzhongxin.html');
-        //    $('.lj a').eq(1).html('退出').attr({
-        //        'onclick': 'quitLogin()',
-        //        'href': '###'
-        //    });
-        //}
+
         if(data.success){
             pass = data.data[0].lpassword;
             var a='<a href="###">'+data.data[0].lname+'</a>&nbsp|&nbsp<a href="###" onclick="quitLogin()" >退出</a>';
@@ -193,11 +175,7 @@ $.ajax({
                 //alert('meiyou');
             }
 
-            /*  $('.wrap-top-r a').eq(0).html('娆㈣繋  '+data.data[0].lname).attr('href','http://192.168.0.175/yiju/01/edit.html');
-             $('.wrap-top-r a').eq(1).html('閫€鍑�').attr({
-             'onclick':'quitLogin()',
-             'href':'###'
-             });*/
+
         }else{
             location.href = 'https://867144817.github.io/denglu.html';
         }
@@ -266,28 +244,7 @@ function quitLogin(){
     });
 
 }
-/*---------------------------------------我的收藏---------------------------------*/
-//$('.rimg-t li').eq(0).click(function () {
-//
-//    var pageNo = 1;
-//    $(this).addClass('bj').siblings().removeClass('bj');
-//    $('.right').show();
-//    $('.explain').hide();
-//    Collect(pageNo);
-/*-----------------插入收藏----------------------*/
-//for (var i = 400; i < 600; i++) {
-//    $.ajax({
-//        type: 'post',
-//        url: 'http://www.zhijunxing.com/yiju/addCollect.action',
-//        dataType: 'jsonp',
-//        data: {
-//            hid: i
-//        },
-//        success: function (data) {
-//            //console.log(data);
-//        }
-//    });
-//}
+
 /*---------------------------------点击页码----------------------------*/
     $('.y1').on('click', 'a', function () {
         // console.log($('.page-box a').last().prev().html());

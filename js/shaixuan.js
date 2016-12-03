@@ -62,13 +62,7 @@ $('.fangxing a').click(function() {
 
 });
 /*---------------下拉------------------*/
-//
-//$('.xiala').on({
-//
-//    focus: function () {
-//        $('.xuaze').removeClass('yin')
-//}
-//});
+
 
 
 $('.xiala').eq(0).toggle(
@@ -218,12 +212,3 @@ function Collect() {
 }
 
 
-//$('.xiala').on({
-//    //console.log('6666');
-//    focus: function () {
-//        $('.xuanze').css({
-//            'display':'block'
-//        })
-//    }
-//
-//});
