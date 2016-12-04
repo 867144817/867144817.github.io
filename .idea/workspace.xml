@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="78ae4e48-ed61-4273-a797-f6664d79cb9e" name="默认的" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/shaixuan.js" afterPath="$PROJECT_DIR$/js/shaixuan.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/denglu.html" afterPath="$PROJECT_DIR$/denglu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/dl.js" afterPath="$PROJECT_DIR$/js/dl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/zc.js" afterPath="$PROJECT_DIR$/js/zc.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zhuce.html" afterPath="$PROJECT_DIR$/zhuce.html" />
     </list>
     <ignored path="867144817.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,11 +27,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6509946">
+            <state vertical-scroll-proportion="-6.206897">
               <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="denglu.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/denglu.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.034483">
+              <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dl.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/dl.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="123" column="5" selection-start-line="123" selection-start-column="5" selection-end-line="123" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -45,14 +67,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shaixuan.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="shaixuan.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/shaixuan.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.2749141">
               <caret line="192" column="122" selection-start-line="192" selection-start-column="122" selection-end-line="192" selection-end-column="122" />
               <folding>
                 <marker date="1480850000513" expanded="true" signature="6177:6202" placeholder="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zhuce.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zhuce.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.551724">
+              <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zc.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/zc.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="173" column="64" selection-start-line="173" selection-start-column="64" selection-end-line="173" selection-end-column="64" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -69,12 +111,8 @@
         <option value="$PROJECT_DIR$/gerenzhongxin.html" />
         <option value="$PROJECT_DIR$/shaixuan.html" />
         <option value="$PROJECT_DIR$/xiangqing.html" />
-        <option value="$PROJECT_DIR$/zhuce.html" />
-        <option value="$PROJECT_DIR$/denglu.html" />
         <option value="$PROJECT_DIR$/js/js1.js" />
         <option value="$PROJECT_DIR$/js/geren.js" />
-        <option value="$PROJECT_DIR$/js/zc.js" />
-        <option value="$PROJECT_DIR$/js/dl.js" />
         <option value="$PROJECT_DIR$/js/shaixuan.js" />
         <option value="F:/yiju/轮播.html" />
         <option value="$PROJECT_DIR$/../666/yiju/gerenzhongxin.html" />
@@ -94,6 +132,10 @@
         <option value="F:/yiju/js/geren.js" />
         <option value="F:/yiju/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/dl.js" />
+        <option value="$PROJECT_DIR$/denglu.html" />
+        <option value="$PROJECT_DIR$/zhuce.html" />
+        <option value="$PROJECT_DIR$/js/zc.js" />
       </list>
     </option>
   </component>
@@ -297,14 +339,20 @@
       <option name="project" value="LOCAL" />
       <updated>1480849287147</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="8565">
+      <created>1480852696130</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1480852696130</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24925373" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24925373" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -337,7 +385,8 @@
     <MESSAGE value="kjkljhk" />
     <MESSAGE value="645764525" />
     <MESSAGE value="7788" />
-    <option name="LAST_COMMIT_MESSAGE" value="7788" />
+    <MESSAGE value="8565" />
+    <option name="LAST_COMMIT_MESSAGE" value="8565" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -545,42 +594,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/denglu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7124774">
-          <caret line="88" column="17" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/dl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03436426">
-          <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/js1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6185567">
           <caret line="35" column="94" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="94" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zhuce.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7106691">
-          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/zc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9707904">
-          <caret line="183" column="0" selection-start-line="183" selection-start-column="0" selection-end-line="183" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -601,21 +618,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/shaixuan.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.206897">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/dl.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="123" column="5" selection-start-line="123" selection-start-column="5" selection-end-line="123" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/denglu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.034483">
+          <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/zc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="173" column="64" selection-start-line="173" selection-start-column="64" selection-end-line="173" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhuce.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.551724">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/shaixuan.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2749141">
           <caret line="192" column="122" selection-start-line="192" selection-start-column="122" selection-end-line="192" selection-end-column="122" />
           <folding>
             <marker date="1480850000513" expanded="true" signature="6177:6202" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6509946">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>

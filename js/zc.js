@@ -171,7 +171,7 @@ $('form .i2').click(function () {
                                 //alert(data.resultCode);
                                 if (data.resultCode == '0000') {
 
-                                    location.href = 'https://867144817.github.io/denglu.html###'
+                                    location.href = 'denglu.html'
                                 }
                             }
                         })
