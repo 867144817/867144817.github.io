@@ -190,7 +190,7 @@ function Collect() {
                 /*-----------------收藏内容---------------------*/
                 var item = '';
                 for (var i = 0; i < data.data.length; i++) {
-                    item += '<li class="" id="' + data.data[i].id + '"><a href="http://www.zhijunxing.com/yiju/article.html?id=' + data.data[i].id + '" class="left chatu2">' +
+                    item += '<li class="" id="' + data.data[i].id + '"><a href="https://867144817.github.io/xiangqing.html?id=' + data.data[i].id + '" class="left chatu2">' +
                         '<img src="http://www.zhijunxing.com/yiju/upload/' + data.data[i].photo.split(',')[0] + '" alt="" style="width: 100%;height: 100%;">' + '</a>' +
                         '<div class="left"><p class="p4">' + data.data[i].tittle + '  ' + data.data[i].room + '<span>(' + data.data[i].type +
                         ')</span><i class="tu10"></i><i class="tu11"></i></p><br><br>' +
