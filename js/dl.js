@@ -133,7 +133,7 @@ $('form .i2').click(function () {
             success: function (data) {
                 alert(data.resultCode);
                 if (data.resultCode == '0000') {
-                    location.href = 'http://192.168.0.164/shouye.html###'
+                    location.href = 'https://867144817.github.io/shouye.html###'
                 }
             }
         })
