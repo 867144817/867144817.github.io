@@ -1,6 +1,4 @@
-/**
- * Created by Administrator on 2016/10/12 0012.
- */
+
 $('#sj').toggle(
     function(){
         $('#yincang').addClass('s5')

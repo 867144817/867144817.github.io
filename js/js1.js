@@ -1,6 +1,4 @@
-/**
- * Created by Administrator on 2016/9/24 0024.
- */
+
 var wsfd=document.getElementById('wsfd'),
     wsfdson=document.getElementById('wsfdson'),
     wyzf=document.getElementById('wyzf'),

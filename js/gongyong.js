@@ -1,6 +1,4 @@
-/**
- * Created by Administrator on 2016/10/13 0013.
- */
+
 $.ajax({
     type: 'post',
     url: 'http://www.zhijunxing.com/yiju/loginSession.action',
@@ -8,8 +6,8 @@ $.ajax({
     success: function (data) {
         //console.log(data.success);
         if (data.success) {
-            $('.lj a').eq(0).html('欢迎  ' + data.data[0].lname).attr('href', 'http://192.168.0.164/gerenzhongxin.html');
-            $('#nicheng').eq(0).html(data.data[0].lname).attr('href', 'http://192.168.0.164/gerenzhongxin.html');
+            $('.lj a').eq(0).html('欢迎  ' + data.data[0].lname).attr('href', 'gerenzhongxin.html');
+            $('#nicheng').eq(0).html(data.data[0].lname).attr('href', 'gerenzhongxin.html');
             $('.lj a').eq(1).html('退出').attr({
                 'onclick': 'quitLogin()',
                 'href': '###'
